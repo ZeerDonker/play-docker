@@ -1,4 +1,4 @@
-FROM        zeerdonker/docker-oracle-java
+FROM        zeerdonker/docker-oracle-java:latest
 
 MAINTAINER  zeerdonker
 
