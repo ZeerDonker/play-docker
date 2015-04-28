@@ -2,7 +2,7 @@ FROM        zeerdonker/docker-oracle-java:latest
 
 MAINTAINER  zeerdonker
 
-ENV         ACTIVATOR_VERSION 1.2.10
+ENV         ACTIVATOR_VERSION 1.3.2
 ENV         DEBIAN_FRONTEND noninteractive
 
 # INSTALL TYPESAFE ACTIVATOR
